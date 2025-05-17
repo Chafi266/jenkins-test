@@ -1,1 +1,3 @@
-print("Ceci est un test exécuté depuis Jenkins !")
+print("Début")
+1 / 0
+print("Fin")
